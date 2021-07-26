@@ -1,4 +1,4 @@
- 👋 Hi, I’m @navalrahman
+ 👋 Hi, I’m navalrahman
 
 🔭 I’m currently looking for a Front End Developer job !!
 
