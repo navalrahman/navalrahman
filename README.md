@@ -16,4 +16,4 @@ Email - navalrahmankavate@gmail.com
 
 
 🧰 Languages and Tools:
-React Node Express Javascript MySql Psql VS Code Github Redux Html5 Boostrap CSS
+React Node Express MongoDB Javascript MySql Psql VS Code Github Redux Html5 Boostrap CSS
